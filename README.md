@@ -1,6 +1,6 @@
 # Summary
 
-This repository contains an R function **to generate a new column with the phytoplankton groups** from *PR2* taxonomy.
+This repository contains an R function **to generate a new column with the phytoplankton groups** from *PR2 db* taxonomy.
 
 There are two versions available: 
 
