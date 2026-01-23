@@ -21,3 +21,8 @@ To **flag and eventually remove non-phytoplankton groups** from the output, the 
 * flag-phyto-pr2-v.4.1.4-simplified.R
 
 Please note the first versions attempt to remove strictly heterotrophic *Dynophyceae* from the table, but that's a moving window in the field as many taxa do not have their ecological function defined yet. Therefore, the **simplified versions** keep all *Dynophyceae* in the table, but note some taxa may be heterotrophic or mixotrophic. The code's choice will depend on the user's research question. 
+
+## Acknowledgements
+This repository was created under the framework of the EU-project [MARCO-BOLO](https://marcobolo-project.eu/). The MARCO-BOLO project is funded by the European Union under the Horizon Europe Programme, Grant Agreement No. 101082021 (MARCO-BOLO). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them. UK participants in MARCO-BOLO are supported by the UKRI’s Horizon Europe Guarantee under the Grant No. 10068180 (MS); No. 10063994 (MBA); No. 10048178 (NOC).
+
+![Fig1](eDNA-EOVs-HABs/figures_readme/MARCO-BOLO_logo_col.png)
