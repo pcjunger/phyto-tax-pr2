@@ -4,9 +4,9 @@ This repository contains an R function **to generate a new column with the phyto
 
 There are two versions available: 
 
-* one for the **9 rank-levels** from **v5.0.0** (that should work for later versions)
+* one for the **9 rank-levels** from **v5.0.0** (that should work for later versions): phyto-tax-pr2-v5.0.0.R
 
-* one for the **8 rank-levels** from **v4.14**
+* one for the **8 rank-levels** from **v4.14** : phyto-tax-pr2-v4.1.4.R
 
 The codes take into consideration the taxonomy is already parsed into columns for each taxonomic level. If your taxonomy is not parsed, this repository also provides the following codes for that propose:
 
